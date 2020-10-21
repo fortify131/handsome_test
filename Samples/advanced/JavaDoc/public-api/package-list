@@ -1,0 +1,7 @@
+com.fortify.pub.bugtracker.plugin
+com.fortify.pub.bugtracker.support
+com.fortify.pub.issueparsing
+com.fortify.pub.serialization
+com.fortify.pub.siteparsing
+com.fortify.pub.sourcecodeprovider
+com.fortify.pub.util

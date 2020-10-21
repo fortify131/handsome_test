@@ -1,0 +1,6 @@
+#############
+#
+#  Example filter file for sourceanalyzer -filter option
+#
+
+32D2A1405A66A13EBEB754A6574CBEFD
